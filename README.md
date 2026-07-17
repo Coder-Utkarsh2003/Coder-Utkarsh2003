@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi 👋, I'm Utkarsh Kumar Srivastava
 
-<!--
-**Coder-Utkarsh2003/Coder-Utkarsh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | AI Enthusiast | Data Analytics
 
-Here are some ideas to get you started:
+I'm passionate about building scalable web applications and AI-powered solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I enjoy transforming ideas into intelligent digital experiences using modern technologies.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+- MySQL
+
+### Programming
+- Python
+- JavaScript
+- SQL
+
+### AI & Data Analytics
+- Machine Learning
+- Data Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Excel
+- Power BI
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vite
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced MERN Stack
+- AI Application Development
+- System Design
+- Cloud Deployment
+- Docker
+
+---
+
+## 📌 Featured Projects
+
+🚀 AI Powered Todo App
+
+📊 Data Analytics Dashboard
+
+🛒 Full Stack E-Commerce Website
+
+🤖 AI Chatbot
+
+📈 Business Analytics Dashboard
+
+---
+
+## 📫 Connect with Me
+
+📧 Email:
+your-email@example.com
+
+💼 LinkedIn:
+https://linkedin.com/in/your-linkedin
+
+🌐 Portfolio:
+Coming Soon
+
+---
+
+⭐ "Code. Learn. Build. Repeat."
