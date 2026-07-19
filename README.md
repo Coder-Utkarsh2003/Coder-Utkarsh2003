@@ -1,6 +1,6 @@
 # Hi 👋, I'm Utkarsh Kumar Srivastava
 
-## 🚀 Full Stack Developer | AI Enthusiast | Data Analytics
+## 🚀 Full Stack Developer with AI | AI Enthusiast | Data Analytics
 
 I'm passionate about building scalable web applications and AI-powered solutions that solve real-world problems.
 
