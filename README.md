@@ -77,10 +77,10 @@ I'm passionate about building scalable web applications and AI-powered solutions
 ## 📫 Connect with Me
 
 📧 Email:
-your-email@example.com
+erutkarsh2003@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/your-linkedin
+www.linkedin.com/in/er-utkarsh-kumar-srivastava-75256636b
 
 🌐 Portfolio:
 Coming Soon
